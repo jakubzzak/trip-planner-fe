@@ -1,0 +1,32 @@
+[
+  {
+    "id": "214129743216382",
+    "name": "Letna expedicia",
+    "createdAt": "2021-01-01",
+    "createdBy": "12974621309232",
+    "membersCount": 12,
+    "pointOfInterest": 30,
+    "backgroundColor": "#814A0E",
+    "description": "Something nice and short here, not implemented yet in the db!"
+  },
+  {
+    "id": "324328535443534",
+    "name": "Zimna expedicia",
+    "createdAt": "2020-07-11",
+    "createdBy": "12974621309232",
+    "membersCount": 12,
+    "pointOfInterest": 20,
+    "backgroundColor": "#814A0E",
+    "description": "Something nice and short here, not implemented yet in the db!"
+  },
+  {
+    "id": "435345346436223",
+    "name": "Future adventure",
+    "createdAt": "2020-11-11",
+    "createdBy": "12974621309232",
+    "membersCount": 12,
+    "pointOfInterest": 10,
+    "backgroundColor": "#814A0E",
+    "description": "Something nice and short here, not implemented yet in the db!"
+  }
+]

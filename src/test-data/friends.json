@@ -1,0 +1,20 @@
+[
+  {
+    "id": "91207321863212",
+    "firstName": "Jakub",
+    "lastName": "Zak",
+    "email": "jakubzak@uteg.sk",
+    "pointOfInterest": 30,
+    "commonFriendsCount": 4,
+    "backgroundColor": "#814A0E"
+  },
+  {
+    "id": "34738247359334",
+    "firstName": "Lukas",
+    "lastName": "Vilim",
+    "email": "lukas.vilim@outlook.com",
+    "pointOfInterest": 30,
+    "commonFriendsCount": 2,
+    "backgroundColor": "#814A0E"
+  }
+]

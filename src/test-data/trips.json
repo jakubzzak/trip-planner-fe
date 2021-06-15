@@ -1,0 +1,155 @@
+[
+  {
+    "id": "325623857325325",
+    "createdAt": "2021-05-05",
+    "createdBy": "237429380753",
+    "accepted": false,
+    "name": "Travel with me",
+    "pointOfInterest": 80,
+    "dateFrom": "2021-04-05",
+    "dateTo": "2021-04-10",
+    "place": "Transilvania",
+    "accommodation": [
+      {
+        "city": "Small city near Transilvania",
+        "dateFrom": "2021-01-01",
+        "dateTo": "2021-01-03",
+        "note": "Some notes here",
+        "amount": 155.25
+      },
+      {
+        "city": "Small city near Transilvania",
+        "dateFrom": "2021-01-03",
+        "dateTo": "2021-01-05",
+        "note": "Some notes here",
+        "amount": 100
+      }
+    ],
+    "transportsThere": [
+      {
+        "mean": "bus",
+        "leavesAt": "2021-01-01T15:30:00",
+        "arrivesAt": "2021-01-01T18:30:00",
+        "cityFrom": "Bratislava",
+        "cityTo": "Some small city",
+        "note": "Simple note here",
+        "amount": 23.5
+      }
+    ],
+    "transportsBack": [
+      {
+        "mean": "train",
+        "leavesAt": "2021-01-08T15:30:00",
+        "arrivesAt": "2021-01-08T18:30:00",
+        "cityFrom": "Some small city",
+        "cityTo": "Bratislava",
+        "note": "Simple note here",
+        "amount": 15
+      }
+    ],
+    "todos": [
+      {
+        "title": "First we do this..",
+        "amount": 22.50,
+        "note": "Might be fun"
+      },
+      {
+        "title": "Than we do that..",
+        "amount": 15.50,
+        "note": "Might be fun as well!"
+      }
+    ],
+    "participants": [],
+    "survey": "34634565736454",
+    "votes": [
+      {
+        "person": "324325235324",
+        "points": 4
+      },
+      {
+        "person": "324534664565",
+        "points": 2
+      },
+      {
+        "person": "456363463775",
+        "points": 5
+      }
+    ],
+    "amounts": {
+      "foodAndDrinks": 55,
+      "gettingAround": 30,
+      "totalEstimate": 85,
+      "totalFinal": 100
+    },
+    "note": "Very simple and short note this might be.",
+    "backgroundColor": "#814A0E"
+  },
+  {
+    "id": "4365734574534",
+    "createdAt": "2020-05-05",
+    "createdBy": "237429380753",
+    "accepted": true,
+    "name": "Interesting expedition",
+    "pointOfInterest": 80,
+    "dateFrom": "2020-07-05",
+    "dateTo": "2021-07-10",
+    "place": "Valencia",
+    "accommodation": [
+      {
+        "city": "Valencia",
+        "dateFrom": "2021-07-05",
+        "dateTo": "2021-07-010",
+        "note": "Excellent price!!",
+        "amount": 130
+      }
+    ],
+    "transportsThere": [
+      {
+        "mean": "airplane",
+        "leavesAt": "2021-07-05T10:30:00",
+        "arrivesAt": "2021-07-010T18:30:00",
+        "cityFrom": "Vienna",
+        "cityTo": "Valencia",
+        "note": "Wizzair",
+        "amount": 25
+      }
+    ],
+    "transportsBack": null,
+    "todos": [
+      {
+        "title": "Water, sand and miesacka!",
+        "amount": 0,
+        "note": "Total blast"
+      },
+      {
+        "title": "Sightseeing",
+        "amount": 25,
+        "note": "Why not?!"
+      }
+    ],
+    "participants": [],
+    "survey": "34634565736454",
+    "votes": [
+      {
+        "person": "324325235324",
+        "points": 2
+      },
+      {
+        "person": "324534664565",
+        "points": 1
+      },
+      {
+        "person": "456363463775",
+        "points": 5
+      }
+    ],
+    "amounts": {
+      "foodAndDrinks": 100,
+      "gettingAround": 15,
+      "totalEstimate": 130,
+      "totalFinal": 150
+    },
+    "note": "Very simple and short note this might be.",
+    "backgroundColor": "#814A0E"
+  }
+]
